@@ -1,6 +1,6 @@
 #!/bin/bash
 # this is a script for installing fcitx skin to your computer
-FCITX_SKIN_FOLDER=~/.config/fcitx/skins
+FCITX_SKIN_FOLDER=~/.config/fcitx/skin
 [ ! -d "${FCITX_SKIN_FOLDER}" ] && echo "Fcitx skin folder doesn't exits, creating it for you..."
 mkdir -p ${FCITX_SKIN_FOLDER}
 echo "Installing the skin files"
