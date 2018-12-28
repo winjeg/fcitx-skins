@@ -1,7 +1,7 @@
 # fcitx-skins
 **fcitx skins, including material and mint dark skin**
 ## how to install
-1. Just run the install.sh and restart fcitx, if you don't know how to restart fcitx you can simply reboot your computer.
+1. Just run the install.sh and restart fcitx, if you don't know how to restart `fcitx`, you can simply reboot your computer.
 ```
 # clone the repo, or download the zip file and unzip the file.
 cd fcitx-skins
