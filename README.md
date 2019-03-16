@@ -1,5 +1,13 @@
 # fcitx-skins
-**fcitx skins, including material and mint dark skin**
+**skins collected for fcitx, including material and mint dark skin**
+
+##  material skin
+![materail](imgs/material.png)
+
+## dark mint skin
+![mint_dark](imgs/mint_dark.png)
+
+
 ## how to install
 1. Just run the install.sh and restart fcitx, if you don't know how to restart `fcitx`, you can simply reboot your computer.
 ```
@@ -31,15 +39,3 @@ vim ~/.config/fcitx/skin/{skinname}/{name}.conf
 #name is the config file for the skin
 
 ```
-
-
-##  material skin
-screenshots
-
-![materail](imgs/material.png)
-
-
-## dark mint skin
-screenshoots
-
-![mint_dark](imgs/mint_dark.png)
