@@ -1,6 +1,8 @@
 # fcitx-skins
 **skins collected for fcitx, including material and mint dark skin**
 
+** Your contribution is deeply appreciated!  欢迎贡献新的皮肤或者对已有皮肤做改进，谢谢！ **
+
 ##  material skin
 ![materail](imgs/material.png)
 
