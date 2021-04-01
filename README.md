@@ -18,7 +18,7 @@ Hereby, I hope we fcitx skin contributors can combine our repos into one.
 ---
 
 
-## Skins that is on github.
+## Skins avaliable on github.
 
 |Skin Name|Github Repo|author| Fcitx version| Sample|
 |-|-|-|-|-|
@@ -26,10 +26,8 @@ Hereby, I hope we fcitx skin contributors can combine our repos into one.
 | Material theme| [Material White](https://github.com/hrko/fcitx-skin-material)|hrko|Fcitx 4.x.x && Fcitx 5.x.x|![materail](imgs/material.png)|
 | Sougou| [Sougou](https://github.com/hosxy/fcitx-skin)|hosxy| Fcitx5.x.x|No sample|
 |Nord Black&White|[Nord](https://github.com/Yucklys/fcitx-nord-skin) | Yucklys| Fcitx 4.x.x|![Nord](https://camo.githubusercontent.com/f9a5d525b48af13339736661a8987c1f3f6cbf0d7c1161e0d2bf011516438207/68747470733a2f2f692e6c6f6c692e6e65742f323032302f30332f31372f50794b4d7749536d35413670526f552e706e67)|
-|Simple Blue|[SimpleBlue](https://github.com/weearc/fcitx5-skin-simple-blue)|weearc|Fcitx 4.x.x|![image](https://user-images.githubusercontent.com/7270177/113253503-e87cc300-92f7-11eb-86ca-13db5ee20492.png)
-|
-|Mint Dark|[MintDark](https://github.com/winjeg)|No author found!|Fcitx 4.x.x|![mint_dark](imgs/mint_dark.png)
- |
+|Simple Blue|[SimpleBlue](https://github.com/weearc/fcitx5-skin-simple-blue)|weearc|Fcitx 4.x.x|![image](https://user-images.githubusercontent.com/7270177/113253503-e87cc300-92f7-11eb-86ca-13db5ee20492.png)|
+|Mint Dark|[MintDark](https://github.com/winjeg)|No author found!|Fcitx 4.x.x|![mint_dark](imgs/mint_dark.png)|
 
 ## Current Fcitx Skin List in this Repo:
 
