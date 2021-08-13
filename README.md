@@ -29,7 +29,7 @@ Hereby, I hope we fcitx skin contributors can combine our repos into one.
 |Simple Blue|[SimpleBlue](https://github.com/weearc/fcitx5-skin-simple-blue)|weearc|Fcitx 4.x.x|![image](https://user-images.githubusercontent.com/7270177/113253503-e87cc300-92f7-11eb-86ca-13db5ee20492.png)|
 |Mint Dark|[MintDark](https://github.com/winjeg)|No author found!|Fcitx 4.x.x|![mint_dark](imgs/mint_dark.png)|
 |the0y的皮肤|[the0y](https://github.com/thep0y/fcitx5-themes)|XXXX| Fcitx 5.x|![皮肤](https://github.com/thep0y/fcitx5-themes/raw/main/images/1606805676.png)|
-
+|Gruvbox|[Gruvbox](https://github.com/ayamir/fcitx5-gruvbox)|ayamir|Fcitx 5.x|![皮肤](https://github.com/ayamir/fcitx5-gruvbox/blob/master/shot/light.png)|
 ## Current Fcitx Skin List in this Repo:
 
 ###  material skin
