@@ -2,8 +2,6 @@
 
 ## Foreword
 
-
-```
 | Forward | 前言 |
 | -----:| ----: |
 | So many repos for fcitx skins, but yet none of them is friendly to linux fcitx users. Apart from that, too many repos means too much work to do to make fcitx skins work correctly. Hereby, I hope we fcitx skin contributors can combine our repos into one.| 维护太多的repo与皮肤让人头疼，许多个repo， 许多个脚本， 维护代价以及用户的使用代价太大了。
