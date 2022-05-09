@@ -9,7 +9,6 @@
 
 ---
 
-
 ## Skins avaliable on github.
 
 |Skin Name|Github Repo|author| Fcitx version| Sample|
