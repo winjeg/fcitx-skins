@@ -7,7 +7,6 @@
 | So many repos for fcitx skins, but yet none of them is friendly to linux fcitx users. Apart from that, too many repos means too much work to do to make fcitx skins work correctly. Hereby, I hope we fcitx skin contributors can combine our repos into one.| 维护太多的repo与皮肤让人头疼，许多个repo， 许多个脚本， 维护代价以及用户的使用代价太大了。因此我在这里做了一个fcitx 皮肤的一个集合，希望fcitx的用户能够在此单一项目中能够解决Linux输入法皮肤的问题。 希望各位开源爱好者积极加入，把自己发现的皮肤整合到这个项目中去， 感谢你们的参与和贡献。本仓库没有特殊的贡献要求， 只要你验证过你的皮肤安装设置，能够正常工作即可|
 
 
-
 ---
 
 ## Skins avaliable on github.
