@@ -1,6 +1,6 @@
 # fcitx-skins
 
-## Foreword
+## Find and preview All popular fcitx skin in one place！
 
 | Forward | 前言 |
 |:-----|:----|
