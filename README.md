@@ -11,6 +11,8 @@
 
 ## Skins avaliable on github.
 
+> Note: if you like the skin that is listed blew, please star the original author's repo, so you needn't remeber it.
+
 |Skin Name|Github Repo|author| Fcitx version| Sample|
 |-|-|-|-|-|
 | Material Color theme| [Fcitx5-Material-Color](https://github.com/hosxy/Fcitx5-Material-Color)|hosxy|Fcitx 5.x.x|![Sample](https://github.com/hosxy/Fcitx5-Material-Color/raw/master/screenshot/blue.png)|
@@ -21,6 +23,9 @@
 |Mint Dark|[MintDark](https://github.com/winjeg)|No author found!|Fcitx 4.x.x|![mint_dark](imgs/mint_dark.png)|
 |the0y的皮肤|[the0y](https://github.com/thep0y/fcitx5-themes)|XXXX| Fcitx 5.x|![皮肤](https://github.com/thep0y/fcitx5-themes/raw/main/images/1606805676.png)|
 |Gruvbox|[Gruvbox](https://github.com/ayamir/fcitx5-gruvbox)|ayamir|Fcitx 5.x|![皮肤](https://github.com/ayamir/fcitx5-gruvbox/blob/master/shot/light.png)|
+|fcitx-dracula|[fcitx-dracula](https://github.com/brandoncardoso/fcitx-dracula)|  unknown|![skin](https://github.com/brandoncardoso/fcitx-dracula/blob/main/preview.png)|
+|fcitx5-skin-aya-dark|[fcitx-aya-dark](https://github.com/Brx86/fcitx5-skin-aya-dark)|Fcitx 5.x.x|![skin](https://github.com/Brx86/fcitx5-skin-aya-dark/blob/main/src/default.jpg)|
+|fcitx-skin-material-nord|[fcitx-skin-material-nord](https://github.com/evansan/fcitx-skin-material-nord)|![skin](https://github.com/evansan/fcitx-skin-material-nord/raw/main/sample.png)|
 ## Current Fcitx Skin List in this Repo:
 
 ###  material skin
